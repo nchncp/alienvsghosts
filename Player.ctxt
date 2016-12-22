@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Char\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=x\ y
+comment1.target=boolean\ canMove(int,\ int)
+comment2.params=clss
+comment2.target=boolean\ canSee(java.lang.Class)
+comment3.params=clss
+comment3.target=void\ eat(java.lang.Class)
+comment4.params=
+comment4.target=int\ getSpeed()
+comment5.params=
+comment5.target=boolean\ atWorldEdge()
+comment6.params=name\ image\ last
+comment6.target=void\ switchImage(java.lang.String,\ int,\ java.lang.String)
+comment7.params=player
+comment7.target=void\ setImagePlayer(java.lang.String)
+comment8.params=
+comment8.target=boolean\ canControl()
+numComments=9

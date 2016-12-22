@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=name\ lastName\ numImage\ delay\ switchMap
+comment1.target=void\ runVideo(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+numComments=2
